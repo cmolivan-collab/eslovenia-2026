@@ -1,0 +1,13 @@
+{
+  "name": "Eslovenia 2026",
+  "short_name": "Eslovenia",
+  "description": "Guía de viaje Eslovenia & Trieste · 4-12 Julio 2026",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0F5270",
+  "theme_color": "#0F5270",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
