@@ -1,13 +1,24 @@
 {
-  "name": "Eslovenia 2026",
-  "short_name": "Eslovenia",
-  "description": "Guía de viaje Eslovenia & Trieste · 4-12 Julio 2026",
+  "name": "Eslovenia & Trieste 2026",
+  "short_name": "Eslovenia 2026",
+  "description": "Guía de viaje personal · Ljubljana · Bled · Trieste · 4-12 Julio 2026",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0F5270",
   "theme_color": "#0F5270",
-  "orientation": "portrait",
+  "orientation": "portrait-primary",
+  "lang": "es",
   "icons": [
-    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "travel",
+    "lifestyle"
   ]
 }
